@@ -18,9 +18,6 @@ justify-content: center;}
 .items h6{margin-top: 15px; text-align: center; font-size: 14px; font-weight: 100; line-height: 20px; }
 .items:hover{margin-top: -130px; box-shadow: 0px 0px 20px 0px #000; background-color:rgba(15,103,250,0.1); border-radius: 15px;}
 
-
-/*Meet*/
-=======
 .Contact{margin-top: -20px; width: 100%;height: 749px;background: #3c5499;color: #fff;}
 .Contact .bar{margin-top: 10px; width: 60px; height: 4px; background-color:#2e437e }
 .Contact h2{font-weight: 600; letter-spacing: 1.5px;}
@@ -41,7 +38,7 @@ footer{width: 100%;background-color:#344b8e; height: 70px; }
 a.linkSocial{margin-top: 15px; margin-left: 20px; color: #fff; height: 50px; font-weight:500; font-size: 17px; text-decoration: none;}
 .linkSocial:hover{color: #31a1d3;}
 a.linkSocial.active{color: #31a1d3;}
-
+=======
 .Meet{
   background-color: #e7f1f8;
   height: 900px;
@@ -121,152 +118,6 @@ a.linkSocial.active{color: #31a1d3;}
   height: 30px;
   border-radius: 20px;
 }
-
-.wrapper{
-    width: 96%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 2%;
-    overflow: hidden;
-}
-
-/*WeGotSkills*/
-
-.skills {
-	background-color: #ffffff;
-	font-family: 'Titillium Web', sans-serif;
-	color: #3c4761;
-	text-align: center;
-  padding-top: 35px;
-}
-
-.skills h1{
-  color: #3c4761;
-	font-size: 40px;
-	font-weight: 700;
-	line-height: 29.907px;
-	padding-top: 35px;
-  text-align: center;
-}
- .skills hr{
-	border: 4px solid rgba(0, 0, 0, 0.15);
-	width: 87px;
-	background-color: #dfe8ed;
-}
-
-
-.skills p{
-	font-size: 18px;
-	font-weight: 400;
-	line-height: 26px;
-}
-
-.skills ul{
-	padding: 55px 0;
-}
-
-.skills li{
-	list-style-type: none;
-	display: inline-block;
-	margin: 0 35px;
-}
-
-/*OurPortofolio*/
-.portfolio{
-	background-color: #ffdd99;
-	font-family: 'Titillium Web', sans-serif;
-	color: #393939;
-	text-align:center;
-	margin-top: -33px;
-}
-
-.portfolio h1{
-	font-size:40px;
-	font-weight: 700;
-	line-height: 29.907px;
-	padding-top:35px;
-}
-
-.portfolio hr{
-	border: 4px solid rgba(0, 0, 0, 0.15);
-	width: 87px;
-	background-color: #e5c37f;
-}
-
-.portfolio p{
-	font-size: 18px;
-	font-weight: 400;
-	line-height: 26px;
-}
-
-.portfolio button:nth-child(1){
-	width: 84px;
-  height: 38px;
-  background-color: #17c2a4;
-  border: 3px solid #ffdd99;
-  border-radius: 4px;
-  font-size: 18px;
-  font-weight: 400;
-  color: #393939;
-  line-height: 19.5px;
-  cursor: pointer;
-  text-align: center;
-  margin: 0 520px;
-}
-
-.portfolio button:nth-child(1):hover{
-	background-color: #ffffff;
-}
-
-.project_type ul{
-	text-align:center;
-}
-
-.project_type li{
-	list-style-type: none;
-  display: inline-block;
-  background-color: #ebc985;
-  border: 3px solid #ffdd99;
-  width: 84px;
-  height: 38px;
-  margin-bottom: 25px;
-}
-
-.project_type li a{
-	text-decoration:none;
-  color:#393939;
-  line-height:19.5px;
-  font-weight:400;
-  font-size:18px;
-	}
-
-.project_type li:hover{
-	background-color:#ffffff;
-}
-
-.works li {
-	list-style-type: none;
-	display: inline-block;
-}
-
-.works p{
-	color:#393939;
-  font-size: 18px;
-  font-weight: 400;
-  line-height: 19.5px;
-}
-
-.portfolio button{
-	color:#ffffff;
-  font-size: 13.4px;
-  font-weight:600;
-  line-height:19.5px;
-  background-color: #17c2a4;
-  border-radius: 4px;
-  border: solid #17c2a4;
-  margin-bottom: 80px;
-}
-
 .Meet .socialmedia img{
   margin-left: -7px;
 }
