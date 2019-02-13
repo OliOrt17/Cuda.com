@@ -105,7 +105,7 @@ justify-content: center;}
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2%;
-    overflow:hidden;
+    overflow: hidden;
 }
 
 /*WeGotSkills*/
@@ -116,12 +116,10 @@ justify-content: center;}
 	color: #3c4761;
 	text-align: center;
   padding-top: 35px;
-
 }
 
 .skills h1{
-
-	color: #3c4761;
+  color: #3c4761;
 	font-size: 40px;
 	font-weight: 700;
 	line-height: 29.907px;
@@ -158,7 +156,6 @@ justify-content: center;}
 	color: #393939;
 	text-align:center;
 	margin-top: -33px;
-
 }
 
 .portfolio h1{
@@ -182,18 +179,17 @@ justify-content: center;}
 
 .portfolio button:nth-child(1){
 	width: 84px;
-	height: 38px;
-	background-color: rgba(0, 0, 0, 0.08);
-	border: 3px solid #ffdd99;
-	border-radius: 4px;
-	font-size: 18px;
-	font-weight: 400;
-	color: #393939;
-	line-height: 19.5px;
-	cursor: pointer;
-	text-align:center;
-	margin: 0 520px;
-
+  height: 38px;
+  background-color: #17c2a4;
+  border: 3px solid #ffdd99;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #393939;
+  line-height: 19.5px;
+  cursor: pointer;
+  text-align: center;
+  margin: 0 520px;
 }
 
 .portfolio button:nth-child(1):hover{
@@ -206,50 +202,48 @@ justify-content: center;}
 
 .project_type li{
 	list-style-type: none;
-	display: inline-block;
-	background-color: rgba(0, 0, 0, 0.08);
-	border: 3px solid #ffdd99;
-	width: 84px;
-	height: 38px;
-	margin-bottom: 25px;
+  display: inline-block;
+  background-color: #ebc985;
+  border: 3px solid #ffdd99;
+  width: 84px;
+  height: 38px;
+  margin-bottom: 25px;
 }
 
 .project_type li a{
 	text-decoration:none;
-	color:#393939;
-	line-height:19.5px;
-	font-weight:400;
-	font-size:18px;
+  color:#393939;
+  line-height:19.5px;
+  font-weight:400;
+  font-size:18px;
 	}
 
 .project_type li:hover{
 	background-color:#ffffff;
 }
 
-.portfolio .works li {
+.works li {
 	list-style-type: none;
-	display:inline-block;
+	display: inline-block;
 }
 
-.portfolio .works p{
+.works p{
 	color:#393939;
-	font-size: 18px;
-	font-weight: 400;
-	line-height: 19.5px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19.5px;
 }
 
 .portfolio button{
 	color:#ffffff;
-	font-size: 13.4px;
-	font-weight:600;
-	line-height:19.5px;
-	background-color: #17c2a4;
-	border-radius: 4px;
-	border: solid #17c2a4;
-	margin-bottom: 80px;
-
+  font-size: 13.4px;
+  font-weight:600;
+  line-height:19.5px;
+  background-color: #17c2a4;
+  border-radius: 4px;
+  border: solid #17c2a4;
+  margin-bottom: 80px;
 }
-
 
 .Meet .socialmedia img{
   margin-left: -7px;
